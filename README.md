@@ -10,6 +10,7 @@ CrackPass is a simple password cracking tool. It allows users to crack hashed pa
 
 ## Screenshots
 
+![Screenshot 2024-06-07 205715](https://github.com/CuteKitty0000/CrackPass/assets/144705877/3247d478-ea4c-4915-bf36-8fe4fd38a496)
 
 
 ## Installation
